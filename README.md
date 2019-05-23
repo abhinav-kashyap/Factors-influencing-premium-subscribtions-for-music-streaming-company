@@ -40,5 +40,5 @@ Of all the above variables, we can state that ‘subscriber friend count’ is t
 - Loved Tracks
 - Posts
 - Playlists
-- Shouts
+- Shouts <br>
 A specific form of marketing towards these members might lead them to switch to premium subscription over the long run.
