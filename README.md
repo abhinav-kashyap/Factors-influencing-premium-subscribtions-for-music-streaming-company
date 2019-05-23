@@ -13,7 +13,7 @@ Given the higher profitability of premium subscribers, it is generally in the in
 After running some basic statistics and data visualizations, I used Propensity score matching algorithms to create a matched  treatment and control sample and identify significant differences.
 Then, I used logistic regression to test which variables are significant for explaining the likelihood of becoming an adopter of premium subscription. <br> <br>
 
-<b> Results </b>
+<b> Results </b> <br>
 Factors which are leading to an increase in probability of adopters (an individual adopting the premium subscription) are: <br>
 -	Male
 -	Age
